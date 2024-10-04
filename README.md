@@ -1,2 +1,2 @@
-# php-b-sico
-fiz exercícios para aprimorar a lógica
+# php-basico
+fiz exercícios para aprimorar a lógica de programação
